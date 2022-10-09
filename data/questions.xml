@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question points="20" timer="7">
+  	<text>В каком году произошла Волынская резня?</text>
+  	<variants>
+  	  <variant right="true">1943</variant>
+  	  <variant>1956</variant>
+  	  <variant>1928</variant>
+  	  <variant>1935</variant>
+    </variants>
+  </question>
+  <question points="3" timer="7">
+  	<text>Столица Португалии?</text>
+  	<variants>
+  	  <variant right="true">Лиссабон</variant>
+  	  <variant>Москва</variant>
+  	  <variant>Будапешт</variant>
+  	  <variant>Сеул</variant>
+  	</variants>
+  </question>
+  <question points="7" timer="7">
+  	<text>Порядковый номер кислорода в таблице Менделеева?</text>
+  	<variants>
+  	  <variant right="true">8</variant>
+  	  <variant>13</variant>
+  	  <variant>24</variant>
+  	  <variant>4</variant>
+  	</variants>
+  </question>  
+  <question points="15" timer="7">
+  	<text>Сколько изумрудов Хаоса существует во вселенной Sonic the Hedgehog?</text>
+  	<variants>
+  	  <variant right="true">7</variant>
+  	  <variant>5</variant>
+  	  <variant>3</variant>
+  	  <variant>1</variant>
+  	</variants>
+  </question>  
+  <question points="9" timer="7">
+  	<text>Какой цвет у камня силы в Войне бесконечности?</text>
+  	<variants>
+  	  <variant right="true">Фиолетовый</variant>
+  	  <variant>Красный</variant>
+  	  <variant>Синий</variant>
+  	  <variant>Зеленый</variant>
+  	</variants>
+  </question>  
+  <question points="11" timer="7">
+  	<text>Единица измерения силы тока?</text>
+  	<variants>
+  	  <variant right="true">Ампер</variant>
+  	  <variant>Вольт</variant>
+  	  <variant>Ом</variant>
+  	  <variant>Ватт</variant>
+  	</variants>
+  </question>  
+  <question points="4" timer="7">
+  	<text>Кто написал роман "Автостопом по Галактике"?</text>
+  	<variants>
+  	  <variant right="true">Дуглас Адамс</variant>
+  	  <variant>Ренсом Риггз</variant>
+  	  <variant>Чак Палланик</variant>
+  	  <variant>Энтони Бёрджесс</variant>
+  	</variants>
+  </question>  
+</questions>
